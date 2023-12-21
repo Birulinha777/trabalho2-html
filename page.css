@@ -1,0 +1,83 @@
+.butao{
+    position:absolute;
+    right: 120px;
+}
+
+.butao2{
+    position:absolute;
+    left: 120px;
+}
+
+.carouselson{
+    width: 350px;
+    display: inline-block;
+}
+
+.carouselson:hover{
+    border: 5px solid rgb(255, 255, 0);
+    border-radius: 28px;
+    
+}
+
+.img{
+    margin-left: 100px;
+}
+
+
+.descricao{
+    position: absolute;
+    top: 200px;
+    color: white;
+}
+
+.carocinha{
+    height: 270px;
+    text-align: center;
+}
+
+.bordaout{
+    border: 3px solid blue;
+    border-radius: 25px;
+}
+
+.skin{
+    margin-left: 60px;
+}
+
+#wallpaper{
+    background-image: url("./Imagens/BG_BloodMoon.jpg");
+    background-attachment: fixed;
+    color: white;
+}
+
+.color{
+    background-color:black;
+}
+
+.backcolor{
+    background-color: white;
+}
+
+.textcolor{
+    color: white;
+}
+
+.nav-link:hover{
+    color: gray;
+}
+
+.nav-link .active{
+    color: gray !important;
+}
+
+.luva{
+    margin-left: 45px;
+}
+
+.bigluva{
+    margin-left: 27px;
+}
+
+.bigfoice{
+    margin-left: 50px;
+}
